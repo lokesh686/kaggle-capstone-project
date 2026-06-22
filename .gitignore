@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+set_env.sh
+*.db
+.env
